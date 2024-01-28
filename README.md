@@ -1,16 +1,21 @@
-# gdscworkshop
+# Flutter Workshop App at GDSC SOET
 
-A new Flutter project.
+This repository contains the code for a Flutter app developed during a workshop. The app is designed to showcase the fundamental concepts of Flutter and serves as a learning resource for workshop participants.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/) installed on your machine
+- Code editor (e.g., Visual Studio Code, IntelliJ, Android Studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/flutter-workshop-app.git
+
+##Happy Fluttering and keep exploring 😄
